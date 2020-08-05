@@ -1,2 +1,2 @@
 # ShortcutA
-A ready to use jupyter notebooks and some documentation
+A ready to use codes and some documentation
