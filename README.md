@@ -1,1 +1,1 @@
-# ShortcutA : Ready to use codes
+# Rtuc: Ready to use codes
